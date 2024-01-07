@@ -39,7 +39,7 @@ This is a basic calculator program written in Python, providing options for addi
 Make sure to enter valid numeric inputs, and the program will handle the selected operation accordingly. 🚀
 
 ## Demo
-![Calculator Demo](assets/calculator.png)
+![Calculator Demo](images/calculator.png)
 
 ---
 
@@ -105,4 +105,4 @@ This is a simple password generator script written in Python. It generates stron
 The generated passwords include a mix of symbols, numbers, and letters to enhance security. Make sure to store generated passwords securely. 🔐💪
 
 ## Demo
-![Password Generator Demo](assets/password.png)
+![Password Generator Demo](images/password.png)
