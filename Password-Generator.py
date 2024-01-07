@@ -13,7 +13,7 @@ def main():
     print("Here is your password: " + last_password + "\n")
     flag = True
     while flag == True:
-        choice = input("Do you want to create another password (Yes or No)?")
+        choice = input("Do you want to create another password (Yes or No)? ")
         if choice == "Yes":
             length = int(input("Please enter the length of your password: \n"))
             last_password = crp(length)
