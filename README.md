@@ -38,6 +38,9 @@ This is a basic calculator program written in Python, providing options for addi
 ## Note
 Make sure to enter valid numeric inputs, and the program will handle the selected operation accordingly. 🚀
 
+## Demo
+![Calculator Demo](assets/calculator.png)
+
 ---
 
 # Contact List Manager 📇
@@ -74,6 +77,9 @@ This is a simple Contact List Manager implemented in Python using the tkinter li
 ## Note
 The program uses tkinter for the GUI, and it's recommended to run it in a local Python environment. 📞✉️
 
+## Demo
+https://github.com/taha007860/StudyingCompanion/assets/96583299/db56b480-126e-48c9-8d90-3e1665ed6de3
+
 ---
 
 # Password Generator 🛡️
@@ -97,3 +103,6 @@ This is a simple password generator script written in Python. It generates stron
 
 ## Note
 The generated passwords include a mix of symbols, numbers, and letters to enhance security. Make sure to store generated passwords securely. 🔐💪
+
+## Demo
+![Password Generator Demo](assets/password.png)
